@@ -4,4 +4,4 @@ This is a port of WordNet (https://wordnet.princeton.edu/) to Picat. Most of the
 
 The default setting of Picat fails to compile "wn_g.pi" due to stack overflow. I used the folloinwg setting with a large amount of space for the stack:
 
-picat -s 999999999
+picat -s 99999999
