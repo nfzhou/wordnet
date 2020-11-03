@@ -6,4 +6,4 @@ The default setting of Picat fails to compile "wn_g.pi" due to stack overflow. I
 
 picat -s 99999999
 
-WordNet requires the latest version of Picat (version 3.0#3 or up).
+This port of WordNet requires the latest version of Picat (version 3.0#3 or up).
